@@ -1,0 +1,3 @@
+# CODSOFT 
+CHATBOT WITH RULED BASED RESPONSES
+The code file name is ChatBot.py
